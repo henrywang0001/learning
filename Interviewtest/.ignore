@@ -1,7 +1,10 @@
 # ignore ALL .log files
 *.log
 .idea
-target
+
 
 # ignore ALL files in ANY directory named temp
 temp/
+target/
+target/classes
+target/generated-sources
