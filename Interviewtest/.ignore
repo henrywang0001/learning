@@ -1,6 +1,8 @@
 # ignore ALL .log files
 *.log
 .idea
+*.class
+target
 
 
 # ignore ALL files in ANY directory named temp
